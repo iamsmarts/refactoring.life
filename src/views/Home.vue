@@ -19,7 +19,7 @@ export default {
 </script>
 <style lang="scss">
 .home{
-  height: 100vh;
+  height: calc(100vh - 20px);
   position: relative;
   h1, h3, h6{
     margin:0px;
